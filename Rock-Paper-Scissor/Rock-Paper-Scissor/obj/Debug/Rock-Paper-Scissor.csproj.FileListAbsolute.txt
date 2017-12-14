@@ -1,0 +1,7 @@
+C:\Users\Nagy Máté\Desktop\Rock-Paper-Scissor\Rock-Paper-Scissor\bin\Debug\Rock-Paper-Scissor.exe.config
+C:\Users\Nagy Máté\Desktop\Rock-Paper-Scissor\Rock-Paper-Scissor\bin\Debug\Rock-Paper-Scissor.exe
+C:\Users\Nagy Máté\Desktop\Rock-Paper-Scissor\Rock-Paper-Scissor\bin\Debug\Rock-Paper-Scissor.pdb
+C:\Users\Nagy Máté\Desktop\Rock-Paper-Scissor\Rock-Paper-Scissor\obj\Debug\Rock-Paper-Scissor.csproj.CoreCompileInputs.cache
+C:\Users\Nagy Máté\Desktop\Rock-Paper-Scissor\Rock-Paper-Scissor\obj\Debug\Rock-Paper-Scissor.exe
+C:\Users\Nagy Máté\Desktop\Rock-Paper-Scissor\Rock-Paper-Scissor\obj\Debug\Rock-Paper-Scissor.pdb
+C:\Users\Nagy Máté\Desktop\Rock-Paper-Scissor\Rock-Paper-Scissor\obj\Debug\Rock-Paper-Scissor.csprojResolveAssemblyReference.cache

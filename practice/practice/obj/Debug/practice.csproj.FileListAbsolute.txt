@@ -1,0 +1,11 @@
+D:\C#\practice\practice\bin\Debug\practice.exe.config
+D:\C#\practice\practice\bin\Debug\practice.exe
+D:\C#\practice\practice\bin\Debug\practice.pdb
+D:\C#\practice\practice\obj\Debug\practice.exe
+D:\C#\practice\practice\obj\Debug\practice.pdb
+C:\Users\norle\Desktop\Programozás\C#\practice\practice\bin\Debug\practice.exe.config
+C:\Users\norle\Desktop\Programozás\C#\practice\practice\bin\Debug\practice.exe
+C:\Users\norle\Desktop\Programozás\C#\practice\practice\bin\Debug\practice.pdb
+C:\Users\norle\Desktop\Programozás\C#\practice\practice\obj\Debug\practice.csproj.CoreCompileInputs.cache
+C:\Users\norle\Desktop\Programozás\C#\practice\practice\obj\Debug\practice.exe
+C:\Users\norle\Desktop\Programozás\C#\practice\practice\obj\Debug\practice.pdb

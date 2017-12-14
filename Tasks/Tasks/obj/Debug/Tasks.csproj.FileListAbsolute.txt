@@ -1,0 +1,7 @@
+C:\Users\Nagy Máté\Desktop\Tasks\Tasks\bin\Debug\Tasks.exe.config
+C:\Users\Nagy Máté\Desktop\Tasks\Tasks\bin\Debug\Tasks.exe
+C:\Users\Nagy Máté\Desktop\Tasks\Tasks\bin\Debug\Tasks.pdb
+C:\Users\Nagy Máté\Desktop\Tasks\Tasks\obj\Debug\Tasks.csprojResolveAssemblyReference.cache
+C:\Users\Nagy Máté\Desktop\Tasks\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Nagy Máté\Desktop\Tasks\Tasks\obj\Debug\Tasks.exe
+C:\Users\Nagy Máté\Desktop\Tasks\Tasks\obj\Debug\Tasks.pdb

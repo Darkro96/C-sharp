@@ -1,0 +1,6 @@
+C:\Users\Nagy Máté\Desktop\Calculator_console_app\Calculator_console_app\bin\Debug\Calculator_console_app.exe.config
+C:\Users\Nagy Máté\Desktop\Calculator_console_app\Calculator_console_app\bin\Debug\Calculator_console_app.exe
+C:\Users\Nagy Máté\Desktop\Calculator_console_app\Calculator_console_app\bin\Debug\Calculator_console_app.pdb
+C:\Users\Nagy Máté\Desktop\Calculator_console_app\Calculator_console_app\obj\Debug\Calculator_console_app.csproj.CoreCompileInputs.cache
+C:\Users\Nagy Máté\Desktop\Calculator_console_app\Calculator_console_app\obj\Debug\Calculator_console_app.exe
+C:\Users\Nagy Máté\Desktop\Calculator_console_app\Calculator_console_app\obj\Debug\Calculator_console_app.pdb

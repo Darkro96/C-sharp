@@ -1,0 +1,6 @@
+C:\Users\Nagy Máté\Desktop\Guess the number\Guess the number\bin\Debug\Guess the number.exe.config
+C:\Users\Nagy Máté\Desktop\Guess the number\Guess the number\bin\Debug\Guess the number.exe
+C:\Users\Nagy Máté\Desktop\Guess the number\Guess the number\bin\Debug\Guess the number.pdb
+C:\Users\Nagy Máté\Desktop\Guess the number\Guess the number\obj\Debug\Guess the number.csproj.CoreCompileInputs.cache
+C:\Users\Nagy Máté\Desktop\Guess the number\Guess the number\obj\Debug\Guess the number.exe
+C:\Users\Nagy Máté\Desktop\Guess the number\Guess the number\obj\Debug\Guess the number.pdb

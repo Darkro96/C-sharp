@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tic Tac Toe", "Tic Tac Toe\Tic Tac Toe.csproj", "{05BB4B4F-CB90-4301-9942-B221FD2355E4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "tic_tac_toe_installer", "D:\tic_tac_toe_installer\tic_tac_toe_installer.vdproj", "{9ECB523C-5E47-45DA-80EE-0C6A71883517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05BB4B4F-CB90-4301-9942-B221FD2355E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05BB4B4F-CB90-4301-9942-B221FD2355E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05BB4B4F-CB90-4301-9942-B221FD2355E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05BB4B4F-CB90-4301-9942-B221FD2355E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ECB523C-5E47-45DA-80EE-0C6A71883517}.Debug|Any CPU.ActiveCfg = Debug
+		{9ECB523C-5E47-45DA-80EE-0C6A71883517}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEAC147C-F72D-4562-9338-32BDC5C6DB3E}
+	EndGlobalSection
+EndGlobal
